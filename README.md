@@ -1,2 +1,2 @@
 # Battlecode
-Frogs. Gay
+This is where it starts bois.
